@@ -30,10 +30,8 @@
     "apicache": "^1.5.2",
     "express": "^4.17.1",
     "pac-proxy-agent": "^3.0.1",
-    "request": "^2.88.0"
-  },
-  "devDependencies": {
-    "eslint": "^6.6.0",
+    "request": "^2.88.0",
+     "eslint": "^6.6.0",
     "eslint-plugin-html": "^6.0.0",
     "husky": "^3.0.9",
     "intelli-espower-loader": "^1.0.1",
